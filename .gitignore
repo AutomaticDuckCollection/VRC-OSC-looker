@@ -1,0 +1,3 @@
+/target
+# Exports can contain personal avatar data; never commit them by accident.
+osc-snapshot-*.json
